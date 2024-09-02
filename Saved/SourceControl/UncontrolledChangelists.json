@@ -5,11 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/AdaC0/Documents/GitHub/mihoyo2/Content/instruction.umap",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/emptybox.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/Input/Actions/IA_SPIN.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/NewBlueprint.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/emptybox_actor.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NU/XLVHX2J6CIQRMUJAXLC8AX.uasset",
@@ -64,7 +62,13 @@
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalObjects__/mihoyogame_demo/7/4V/4MQHE8ED95GN8REVYAXCHG.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalObjects__/mihoyogame_demo/A/Z1/TEJ2K9UB6LLLC8YF4LYLXP.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalObjects__/mihoyogame_demo/A/NA/OKFDQ9MCZGZQWB69UAP475.uasset",
-				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/mihoyogame_demo.umap"
+				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/mihoyogame_demo.umap",
+				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/5/5S/AAWYHFF8RTX29DSPAE0DNC.uasset",
+				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/C/G8/X7MRMGCEY982JBIZHQU0PU.uasset",
+				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/1/5O/MYXQRGE4MV084EXQHF34X6.uasset",
+				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/E/14/E434G8DI74YSUQW93B2CAG.uasset",
+				"C:/Users/AdaC0/Documents/GitHub/mihoyo2/Content/instruction.umap",
+				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/NewBlueprint.uasset"
 			]
 		}
 	]
