@@ -30,6 +30,7 @@
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/givephyscial.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/Map_maze.umap",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/NewBlueprint.uasset",
+				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/destoryactor.uasset",
 				"C:/Users/AdaC0/Documents/GitHub/mihoyo2/Content/mihoyogame_demo.umap",
 				"C:/Users/AdaC0/Documents/GitHub/mihoyo2/Content/level2.umap",
 				"C:/Users/AdaC0/Documents/GitHub/mihoyo2/Content/level3.umap",
@@ -1115,8 +1116,7 @@
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/5/QT/W4Q6ZY83OG0Y958WGF0CK5.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/3/GL/2KVT334KHWJV6IEPRPNDAY.uasset",
 				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/E/2T/BYYTUQCMDFKCCITWABI7HD.uasset",
-				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/5/5S/AAWYHFF8RTX29DSPAE0DNC.uasset",
-				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/ThirdPerson/NewBlueprint.uasset"
+				"C:/Users/888/Documents/Unreal Projects/mihoyo2/Content/__ExternalActors__/mihoyogame_demo/5/5S/AAWYHFF8RTX29DSPAE0DNC.uasset"
 			]
 		}
 	]
